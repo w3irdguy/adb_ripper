@@ -2,10 +2,12 @@
 
 ## Introduction
 
-'adb_ripper' is a public project focused in explore adb functions.
+'adb_ripper' is public project focused in explore adb functions.
 
 ## Tutorial
 
 ```bash
-git clone https://w3irdguy/adb_ripper
+git clone https://github.com/mn7god/adb_ripper; cd adb_ripper; python3 adb_ripper.py
 ```
+
+#
